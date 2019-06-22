@@ -56,5 +56,40 @@ Could be real time or turn based. Money could be banked for points or used to bu
 
 Could also ditch angry birds style flinging and make it more of a clicker, especially in the proto stage.
 
+#### ARCHITECTURE
+
+###MVC:
+
+##MODELS:
+
+##CONTROLLERS:
+
+##VIEWS:
+
+#Initial:
+1. World Map - Eventually region-specific maps, will start with one region.
+3. Route Menu - Menu for starting routes.
+4. Edit Route Menu - for editing routes.
+5. Buy Planes Menu - buy planes.
+6. Settings
+7. Round Summary 
+8. Title Screen
+9. Setup game
+
+#Future
+1. Business Venture - buying business ventures
+2. Advisors - give the player advice in different areas
+3. Promotions - create marketing campaigns
+4. Budget - allocate funds to maintenance, service, etc.
+5. Reports - info about the status of the game.
+
+#Animations / flavor screens
+6. Route opening
+7. Route closing
+8. buy planes
+9. buy business venture
+10. sell business venture
+11. victory sequence - can be round summary until made fancy
+12. intro sequence
 
 

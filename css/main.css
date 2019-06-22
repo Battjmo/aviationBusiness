@@ -1,0 +1,6 @@
+#game {
+    background-image: url('../MAP.png');
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
